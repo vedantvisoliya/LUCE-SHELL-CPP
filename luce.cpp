@@ -198,7 +198,7 @@ void renameFileDir(string& input) {
 }
 
 int main(){
-    cout << "LUCE SHELL" << endl;
+    cout << "LUCE SHELL Version[1.0.0]" << endl;
     cout << "Copyright (C) Vedant Visoliya. All rights reserved." << endl;
     // varibles
     bool done = false;
